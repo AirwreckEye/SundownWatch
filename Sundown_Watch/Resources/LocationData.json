@@ -1,0 +1,1251 @@
+[
+  {
+	"id": 1,
+	"state": "Alabama",
+	"towns": [
+	  {
+		"town": "Arab",
+		"coordinates": {
+		  "lat": 34.3181497,
+		  "long": -86.4958219
+		}
+	  },
+	  {
+		"town": "Cullman",
+		"coordinates": {
+		  "lat": 34.1748208,
+		  "long": -86.8436124
+		}
+	  },
+	  {
+		"town": "Cullman County",
+		"coordinates": {
+		  "lat": 34.1748208,
+		  "long": -86.8436124
+		}
+	  },
+	  {
+		"town": "Sand Mountain",
+		"coordinates": {
+		  "lat": 32.3182314,
+		  "long": -86.902298
+		}
+	  }
+	]
+  },
+  {
+	"id": 2,
+	"state": "Arizona",
+	"towns": [
+	  {
+		"town": "Duncan",
+		"coordinates": {
+		  "lat": 32.7214599,
+		  "long": -109.1053408
+		}
+	  }
+	]
+  },
+  {
+	"id": 3,
+	"state": "Arkansas",
+	"towns": [
+	  {
+		"town": "Black Rock",
+		"coordinates": {
+		  "lat": 36.1082803,
+		  "long": -91.0983903
+		}
+	  },
+	  {
+		"town": "Bonanza",
+		"coordinates": {
+		  "lat": 35.2391805,
+		  "long": -94.4210755
+		}
+	  },
+	  {
+		"town": "Boone County",
+		"coordinates": {
+		  "lat": 36.3118662,
+		  "long": -93.0175712
+		}
+	  },
+	  {
+		"town": "Clay County",
+		"coordinates": {
+		  "lat": 36.3492244,
+		  "long": -90.3748354
+		}
+	  },
+	  {
+		"town": "Fouke",
+		"coordinates": {
+		  "lat": 33.2648232,
+		  "long": -93.8854268
+		}
+	  },
+	  {
+		"town": "Harrison",
+		"coordinates": {
+		  "lat": 36.2297712,
+		  "long": -93.107405
+		}
+	  },
+	  {
+		"town": "Mena",
+		"coordinates": {
+		  "lat": 34.5842244,
+		  "long": -94.2363689
+		}
+	  },
+	  {
+		"town": "Paragould",
+		"coordinates": {
+		  "lat": 36.0525622,
+		  "long": -90.4886797
+		}
+	  },
+	  {
+		"town": "Rogers",
+		"coordinates": {
+		  "lat": 36.3335129,
+		  "long": -94.1256953
+		}
+	  },
+	  {
+		"town": "Sheridan",
+		"coordinates": {
+		  "lat": 34.3068334,
+		  "long": -92.3991409
+		}
+	  },
+	  {
+		"town": "Springdale",
+		"coordinates": {
+		  "lat": 36.1850768,
+		  "long": -94.1384122
+		}
+	  },
+	  {
+		"town": "Waldron",
+		"coordinates": {
+		  "lat": 34.8964186,
+		  "long": -94.0909925
+		}
+	  }
+	]
+  },
+  {
+	"id": 4,
+	"state": "California",
+	"towns": [
+	  {
+		"town": "Glendale",
+		"coordinates": {
+		  "lat": 34.1425078,
+		  "long": -118.255075
+		}
+	  },
+	  {
+		"town": "Oildale",
+		"coordinates": {
+		  "lat": 35.4196799,
+		  "long": -119.0195452
+		}
+	  },
+	  {
+		"town": "Piedmont",
+		"coordinates": {
+		  "lat": 37.8244063,
+		  "long": -122.2314865
+		}
+	  },
+	  {
+		"town": "Taft",
+		"coordinates": {
+		  "lat": 35.1424671,
+		  "long": -119.4565078
+		}
+	  }
+	]
+  },
+  {
+	"id": 5,
+	"state": "Florida",
+	"towns": [
+	  {
+		"town": "Cedar Key",
+		"coordinates": {
+		  "lat": 29.1385785,
+		  "long": -83.0351212
+		}
+	  }
+	]
+  },
+  {
+	"id": 6,
+	"state": "Georgia",
+	"towns": [
+	  {
+		"town": "Dawson County",
+		"coordinates": {
+		  "lat": 34.412912,
+		  "long": -84.1435136
+		}
+	  },
+	  {
+		"town": "Forsyth County",
+		"coordinates": {
+		  "lat": 34.2358502,
+		  "long": -84.1435136
+		}
+	  },
+	  {
+		"town": "Towns County",
+		"coordinates": {
+		  "lat": 34.9208214,
+		  "long": -83.7199136
+		}
+	  }
+	]
+  },
+  {
+	"id": 7,
+	"state": "Illinois",
+	"towns": [
+	  {
+		"town": "Anna",
+		"coordinates": {
+		  "lat": 37.4603274,
+		  "long": -89.2470282
+		}
+	  },
+	  {
+		"town": "Benton",
+		"coordinates": {
+		  "lat": 37.9967163,
+		  "long": -88.9200685
+		}
+	  },
+	  {
+		"town": "Calhoun County",
+		"coordinates": {
+		  "lat": 39.1733216,
+		  "long": -90.658333
+		}
+	  },
+	  {
+		"town": "Cicero",
+		"coordinates": {
+		  "lat": 41.8455877,
+		  "long": -87.7539448
+		}
+	  },
+	  {
+		"town": "De Land",
+		"coordinates": {
+		  "lat": 40.1222568,
+		  "long": -88.6453453
+		}
+	  },
+	  {
+		"town": "Deerfield",
+		"coordinates": {
+		  "lat": 42.1711365,
+		  "long": -87.8445119
+		}
+	  },
+	  {
+		"town": "Effingham",
+		"coordinates": {
+		  "lat": 39.1200418,
+		  "long": -88.5433829
+		}
+	  },
+	  {
+		"town": "Eldorado",
+		"coordinates": {
+		  "lat": 37.8136583,
+		  "long": -88.4381029
+		}
+	  },
+	  {
+		"town": "Granite City",
+		"coordinates": {
+		  "lat": 38.7014389,
+		  "long": -90.1487199
+		}
+	  },
+	  {
+		"town": "Kenilworth",
+		"coordinates": {
+		  "lat": 42.085862,
+		  "long": -87.7175607
+		}
+	  },
+	  {
+		"town": "Oak Park",
+		"coordinates": {
+		  "lat": 41.8850317,
+		  "long": -87.7845025
+		}
+	  },
+	  {
+		"town": "Oblong",
+		"coordinates": {
+		  "lat": 39.0019867,
+		  "long": -87.9089204
+		}
+	  },
+	  {
+		"town": "Pana",
+		"coordinates": {
+		  "lat": 39.3889311,
+		  "long": -89.0800809
+		}
+	  },
+	  {
+		"town": "Pekin",
+		"coordinates": {
+		  "lat": 40.5675388,
+		  "long": -89.640658
+		}
+	  },
+	  {
+		"town": "Salem",
+		"coordinates": {
+		  "lat": 38.6269929,
+		  "long": -88.9456158
+		}
+	  },
+	  {
+		"town": "Sandoval",
+		"coordinates": {
+		  "lat": 38.6156043,
+		  "long": -89.1142343
+		}
+	  },
+	  {
+		"town": "Sesser",
+		"coordinates": {
+		  "lat": 38.0917168,
+		  "long": -89.0503512
+		}
+	  },
+	  {
+		"town": "Vienna",
+		"coordinates": {
+		  "lat": 37.4153295,
+		  "long": -88.8978434
+		}
+	  },
+	  {
+		"town": "Ziegler",
+		"coordinates": {
+		  "lat": 37.8994945,
+		  "long": -89.0520194
+		}
+	  }
+	]
+  },
+  {
+	"id": 8,
+	"state": "Indiana",
+	"towns": [
+	  {
+		"town": "Auburn",
+		"coordinates": {
+		  "lat": 41.3669942,
+		  "long": -85.0588575
+		}
+	  },
+	  {
+		"town": "Aurora",
+		"coordinates": {
+		  "lat": 39.0570022,
+		  "long": -84.9013402
+		}
+	  },
+	  {
+		"town": "Bluffton",
+		"coordinates": {
+		  "lat": 40.7386579,
+		  "long": -85.1716368
+		}
+	  },
+	  {
+		"town": "Crawford",
+		"coordinates": {
+		  "lat": 38.3054548,
+		  "long": -86.4592091
+		}
+	  },
+	  {
+		"town": "Decatur",
+		"coordinates": {
+		  "lat": 40.830603,
+		  "long": -84.9291329
+		}
+	  },
+	  {
+		"town": "Elwood",
+		"coordinates": {
+		  "lat": 40.2769834,
+		  "long": -85.8419246
+		}
+	  },
+	  {
+		"town": "Fowler",
+		"coordinates": {
+		  "lat": 40.6167044,
+		  "long": -87.3208518
+		}
+	  },
+	  {
+		"town": "Fulton County",
+		"coordinates": {
+		  "lat": 41.0204161,
+		  "long": -86.2970998
+		}
+	  },
+	  {
+		"town": "Gas City",
+		"coordinates": {
+		  "lat": 40.4872625,
+		  "long": -85.6130311
+		}
+	  },
+	  {
+		"town": "Goshen",
+		"coordinates": {
+		  "lat": 41.5868377,
+		  "long": -85.8267552
+		}
+	  },
+	  {
+		"town": "Grand View",
+		"coordinates": {
+		  "lat": 37.9336626,
+		  "long": -86.9811059
+		}
+	  },
+	  {
+		"town": "Greenwood",
+		"coordinates": {
+		  "lat": 39.6136578,
+		  "long": -86.1066526
+		}
+	  },
+	  {
+		"town": "Hartford City",
+		"coordinates": {
+		  "lat": 40.451154,
+		  "long": -85.369972
+		}
+	  },
+	  {
+		"town": "Hobart",
+		"coordinates": {
+		  "lat": 41.5322592,
+		  "long": -87.2550353
+		}
+	  },
+	  {
+		"town": "Huntington",
+		"coordinates": {
+		  "lat": 40.8831011,
+		  "long": -85.497476
+		}
+	  },
+	  {
+		"town": "Jasper",
+		"coordinates": {
+		  "lat": 38.3914418,
+		  "long": -86.9311094
+		}
+	  },
+	  {
+		"town": "Knox",
+		"coordinates": {
+		  "lat": 41.2958751,
+		  "long": -86.6250139
+		}
+	  },
+	  {
+		"town": "LaGrange",
+		"coordinates": {
+		  "lat": 41.641717,
+		  "long": -85.4166467
+		}
+	  },
+	  {
+		"town": "Leavenworth",
+		"coordinates": {
+		  "lat": 38.1997869,
+		  "long": -86.3441439
+		}
+	  },
+	  {
+		"town": "Linton",
+		"coordinates": {
+		  "lat": 39.0347666,
+		  "long": -87.1658458
+		}
+	  },
+	  {
+		"town": "Martinsville",
+		"coordinates": {
+		  "lat": 39.4278253,
+		  "long": -86.4283279
+		}
+	  },
+	  {
+		"town": "Monticello",
+		"coordinates": {
+		  "lat": 40.7453169,
+		  "long": -86.7647343
+		}
+	  },
+	  {
+		"town": "Nashville",
+		"coordinates": {
+		  "lat": 39.2072501,
+		  "long": -86.2469535
+		}
+	  },
+	  {
+		"town": "Newburg",
+		"coordinates": {
+		  "lat": 37.9444882,
+		  "long": -87.4052865
+		}
+	  },
+	  {
+		"town": "Newport",
+		"coordinates": {
+		  "lat": 39.8842049,
+		  "long": -87.408627
+		}
+	  },
+	  {
+		"town": "Osgood",
+		"coordinates": {
+		  "lat": 39.1292199,
+		  "long": -85.2916279
+		}
+	  },
+	  {
+		"town": "Plymouth",
+		"coordinates": {
+		  "lat": 41.3436554,
+		  "long": -86.3097278
+		}
+	  },
+	  {
+		"town": "Rochester",
+		"coordinates": {
+		  "lat": 41.0647645,
+		  "long": -86.2158331
+		}
+	  },
+	  {
+		"town": "Rockport",
+		"coordinates": {
+		  "lat": 37.8831055,
+		  "long": -87.0494408
+		}
+	  },
+	  {
+		"town": "Salem",
+		"coordinates": {
+		  "lat": 38.6056131,
+		  "long": -86.101089
+		}
+	  },
+	  {
+		"town": "Scottsburg",
+		"coordinates": {
+		  "lat": 38.685614,
+		  "long": -85.7702451
+		}
+	  },
+	  {
+		"town": "Seelyville",
+		"coordinates": {
+		  "lat": 39.4919826,
+		  "long": -87.2672399
+		}
+	  },
+	  {
+		"town": "Tell City",
+		"coordinates": {
+		  "lat": 37.9514447,
+		  "long": -86.7677663
+		}
+	  },
+	  {
+		"town": "Tipton",
+		"coordinates": {
+		  "lat": 40.2822598,
+		  "long": -86.041098
+		}
+	  }
+	]
+  },
+  {
+	"id": 9,
+	"state": "Iowa",
+	"towns": [
+	  {
+		"town": "New Market",
+		"coordinates": {
+		  "lat": 40.7311,
+		  "long": -94.8996976
+		}
+	  }
+	]
+  },
+  {
+	"id": 10,
+	"state": "Kansas",
+	"towns": [
+	  {
+		"town": "Altoona",
+		"coordinates": {
+		  "lat": 37.5239434,
+		  "long": -95.6613696
+		}
+	  },
+	  {
+		"town": "Centralia",
+		"coordinates": {
+		  "lat": 39.725831,
+		  "long": -96.1272246
+		}
+	  },
+	  {
+		"town": "Croweburg",
+		"coordinates": {
+		  "lat": 37.5569911,
+		  "long": -94.6660716
+		}
+	  },
+	  {
+		"town": "Ellis",
+		"coordinates": {
+		  "lat": 38.9380662,
+		  "long": -99.5606669
+		}
+	  },
+	  {
+		"town": "Frontenac",
+		"coordinates": {
+		  "lat": 37.4556049,
+		  "long": -94.689127
+		}
+	  },
+	  {
+		"town": "Hays",
+		"coordinates": {
+		  "lat": 38.8791783,
+		  "long": -99.3267702
+		}
+	  },
+	  {
+		"town": "Nortonville",
+		"coordinates": {
+		  "lat": 39.4166649,
+		  "long": -95.3335838
+		}
+	  },
+	  {
+		"town": "Scranton",
+		"coordinates": {
+		  "lat": 38.7816716,
+		  "long": -95.7385956
+		}
+	  },
+	  {
+		"town": "Stockton",
+		"coordinates": {
+		  "lat": 39.4380656,
+		  "long": -99.2650967
+		}
+	  }
+	]
+  },
+  {
+	"id": 12,
+	"state": "Kentucky",
+	"towns": [
+	  {
+		"town": "Benton",
+		"coordinates": {
+		  "lat": 36.8572781,
+		  "long": -88.350315
+		}
+	  },
+	  {
+		"town": "Calvert City",
+		"coordinates": {
+		  "lat": 37.0333896,
+		  "long": -88.3500362
+		}
+	  },
+	  {
+		"town": "Corbin",
+		"coordinates": {
+		  "lat": 36.9486986,
+		  "long": -84.0968761
+		}
+	  },
+	  {
+		"town": "Crescent City",
+		"coordinates": {
+		  "lat": 39.0514685,
+		  "long": -84.5768123
+		}
+	  },
+	  {
+		"town": "Marshall County",
+		"coordinates": {
+		  "lat": 36.8573767,
+		  "long": -88.4016041
+		}
+	  }
+	]
+  },
+  {
+	"id": 13,
+	"state": "Louisiana",
+	"towns": [
+	  {
+		"town": "Pollock",
+		"coordinates": {
+		  "lat": 31.5257321,
+		  "long": -92.4070823
+		}
+	  }
+	]
+  },
+  {
+	"id": 14,
+	"state": "Maine",
+	"towns": [
+	  {
+		"town": "Milo",
+		"coordinates": {
+		  "lat": 45.2533339,
+		  "long": -68.986263
+		}
+	  }
+	]
+  },
+  {
+	"id": 15,
+	"state": "Maryland",
+	"towns": [
+	  {
+		"town": "Chevy Chase",
+		"coordinates": {
+		  "lat": 38.9949153,
+		  "long": -77.0772052
+		}
+	  }
+	]
+  },
+  {
+	"id": 16,
+	"state": "Michigan",
+	"towns": [
+	  {
+		"town": "Owosso",
+		"coordinates": {
+		  "lat": 42.9978049,
+		  "long": -84.1766358
+		}
+	  },
+	  {
+		"town": "Wyandotte",
+		"coordinates": {
+		  "lat": 42.2142064,
+		  "long": -83.1499239
+		}
+	  }
+	]
+  },
+  {
+	"id": 17,
+	"state": "Mississippi",
+	"towns": [
+	  {
+		"town": "Mize",
+		"coordinates": {
+		  "lat": 31.8684927,
+		  "long": -89.5559023
+		}
+	  }
+	]
+  },
+  {
+	"id": 18,
+	"state": "Missouri",
+	"towns": [
+	  {
+		"town": "Doniphan",
+		"coordinates": {
+		  "lat": 36.6208917,
+		  "long": -90.8234551
+		}
+	  },
+	  {
+		"town": "Forsyth",
+		"coordinates": {
+		  "lat": 36.6850612,
+		  "long": -93.1199012
+		}
+	  },
+	  {
+		"town": "Galena",
+		"coordinates": {
+		  "lat": 36.8053375,
+		  "long": -93.466579
+		}
+	  },
+	  {
+		"town": "Lamar",
+		"coordinates": {
+		  "lat": 37.4950478,
+		  "long": -94.2766148
+		}
+	  },
+	  {
+		"town": "Monett",
+		"coordinates": {
+		  "lat": 36.9289502,
+		  "long": -93.9277071
+		}
+	  },
+	  {
+		"town": "Pierce City",
+		"coordinates": {
+		  "lat": 36.9458952,
+		  "long": -94.0002099
+		}
+	  },
+	  {
+		"town": "Smithville",
+		"coordinates": {
+		  "lat": 39.3869442,
+		  "long": -94.5810659
+		}
+	  },
+	  {
+		"town": "Sullivan",
+		"coordinates": {
+		  "lat": 38.2081045,
+		  "long": -91.1604207
+		}
+	  }
+	]
+  },
+  {
+	"id": 19,
+	"state": "Nevada",
+	"towns": [
+	  {
+		"town": "Minden-Gardnerville",
+		"coordinates": {
+		  "lat": 38.9540739,
+		  "long": -119.7657332
+		}
+	  }
+	]
+  },
+  {
+	"id": 20,
+	"state": "New York",
+	"towns": [
+	  {
+		"town": "Levittown",
+		"coordinates": {
+		  "lat": 40.7259336,
+		  "long": -73.5142921
+		}
+	  },
+	  {
+		"town": "North Tonawanda",
+		"coordinates": {
+		  "lat": 43.038668,
+		  "long": -78.8642033
+		}
+	  }
+	]
+  },
+  {
+	"id": 21,
+	"state": "North Carolina",
+	"towns": [
+	  {
+		"town": "Mitchell County",
+		"coordinates": {
+		  "lat": 36.0277763,
+		  "long": -82.1496049
+		}
+	  }
+	]
+  },
+  {
+	"id": 22,
+	"state": "Ohio",
+	"towns": [
+	  {
+		"town": "Shelby",
+		"coordinates": {
+		  "lat": 40.8814452,
+		  "long": -82.6618424
+		}
+	  },
+	  {
+		"town": "Utica",
+		"coordinates": {
+		  "lat": 40.2342313,
+		  "long": -82.4512699
+		}
+	  },
+	  {
+		"town": "Waverly",
+		"coordinates": {
+		  "lat": 39.1267349,
+		  "long": -82.9854553
+		}
+	  }
+	]
+  },
+  {
+	"id": 23,
+	"state": "Oklahoma",
+	"towns": [
+	  {
+		"town": "Beaver",
+		"coordinates": {
+		  "lat": 36.8161371,
+		  "long": -100.5198713
+		}
+	  },
+	  {
+		"town": "Blackwell",
+		"coordinates": {
+		  "lat": 36.8044767,
+		  "long": -97.2828207
+		}
+	  },
+	  {
+		"town": "Glencoe",
+		"coordinates": {
+		  "lat": 36.2286641,
+		  "long": -96.925591
+		}
+	  },
+	  {
+		"town": "Greer County",
+		"coordinates": {
+		  "lat": 34.9338651,
+		  "long": -99.456155
+		}
+	  },
+	  {
+		"town": "Henryetta",
+		"coordinates": {
+		  "lat": 35.4398261,
+		  "long": -95.9819429
+		}
+	  },
+	  {
+		"town": "Marlow",
+		"coordinates": {
+		  "lat": 34.6481318,
+		  "long": -97.9580933
+		}
+	  },
+	  {
+		"town": "Stroud",
+		"coordinates": {
+		  "lat": 35.7486798,
+		  "long": -96.6580726
+		}
+	  }
+	]
+  },
+  {
+	"id": 24,
+	"state": "Oregon",
+	"towns": [
+	  {
+		"town": "Eugene",
+		"coordinates": {
+		  "lat": 44.052071,
+		  "long": -123.086754
+		}
+	  },
+	  {
+		"town": "Grants Pass",
+		"coordinates": {
+		  "lat": 42.4390069,
+		  "long": -123.3283925
+		}
+	  },
+	  {
+		"town": "Medford",
+		"coordinates": {
+		  "lat": 42.3265152,
+		  "long": -122.8755949
+		}
+	  }
+	]
+  },
+  {
+	"id": 25,
+	"state": "Pennsylvania",
+	"towns": [
+	  {
+		"town": "Elizabethtown",
+		"coordinates": {
+		  "lat": 40.1528719,
+		  "long": -76.6027455
+		}
+	  },
+	  {
+		"town": "Levittown",
+		"coordinates": {
+		  "lat": 40.1528719,
+		  "long": -76.6027455
+		}
+	  }
+	]
+  },
+  {
+	"id": 26,
+	"state": "South Carolina",
+	"towns": [
+	  {
+		"town": "Moncks Corner",
+		"coordinates": {
+		  "lat": 33.1960027,
+		  "long": -80.0131374
+		}
+	  }
+	]
+  },
+  {
+	"id": 27,
+	"state": "South Dakota",
+	"towns": [
+	  {
+		"town": "Lemmon",
+		"coordinates": {
+		  "lat": 45.939375,
+		  "long": -102.160128
+		}
+	  }
+	]
+  },
+  {
+	"id": 28,
+	"state": "Tennessee",
+	"towns": [
+	  {
+		"town": "Celina",
+		"coordinates": {
+		  "lat": 36.5500611,
+		  "long": -85.505247
+		}
+	  },
+	  {
+		"town": "Crossville",
+		"coordinates": {
+		  "lat": 35.9489566,
+		  "long": -85.0269014
+		}
+	  },
+	  {
+		"town": "Erwin",
+		"coordinates": {
+		  "lat": 36.1451082,
+		  "long": -82.4168055
+		}
+	  },
+	  {
+		"town": "North Chattanooga",
+		"coordinates": {
+		  "lat": 35.0457984,
+		  "long": -85.3093995
+		}
+	  }
+	]
+  },
+  {
+	"id": 29,
+	"state": "Texas",
+	"towns": [
+	  {
+		"town": "Alba",
+		"coordinates": {
+		  "lat": 32.7929034,
+		  "long": -95.6344036
+		}
+	  },
+	  {
+		"town": "Comanche",
+		"coordinates": {
+		  "lat": 32.7929034,
+		  "long": -95.6344036
+		}
+	  },
+	  {
+		"town": "Comanche County",
+		"coordinates": {
+		  "lat": 31.9755461,
+		  "long": -98.5721016
+		}
+	  },
+	  {
+		"town": "Cut and Shoot",
+		"coordinates": {
+		  "lat": 30.3332654,
+		  "long": -95.357994
+		}
+	  },
+	  {
+		"town": "De Leon",
+		"coordinates": {
+		  "lat": 32.1109743,
+		  "long": -98.5358825
+		}
+	  },
+	  {
+		"town": "Grand Saline",
+		"coordinates": {
+		  "lat": 32.6734636,
+		  "long": -95.7094069
+		}
+	  },
+	  {
+		"town": "Hamilton",
+		"coordinates": {
+		  "lat": 31.7037655,
+		  "long": -98.1239231
+		}
+	  },
+	  {
+		"town": "Hamilton County",
+		"coordinates": {
+		  "lat": 31.6368668,
+		  "long": -98.2212979
+		}
+	  },
+	  {
+		"town": "Throckmorton",
+		"coordinates": {
+		  "lat": 33.1787153,
+		  "long": -99.1775756
+		}
+	  },
+	  {
+		"town": "Throckmorton County",
+		"coordinates": {
+		  "lat": 33.1814565,
+		  "long": -99.2785583
+		}
+	  },
+	  {
+		"town": "Vidor",
+		"coordinates": {
+		  "lat": 30.1316001,
+		  "long": -94.0154541
+		}
+	  },
+	  {
+		"town": "Wheeler County",
+		"coordinates": {
+		  "lat": 35.3830893,
+		  "long": -100.3497895
+		}
+	  }
+	]
+  },
+  {
+	"id": 30,
+	"state": "Utah",
+	"towns": [
+	  {
+		"town": "Price",
+		"coordinates": {
+		  "lat": 39.5994095,
+		  "long": -110.8107148
+		}
+	  }
+	]
+  },
+  {
+	"id": 31,
+	"state": "Virginia",
+	"towns": [
+	  {
+		"town": "Buchanan County",
+		"coordinates": {
+		  "lat": 37.2403134,
+		  "long": -81.9971108
+		}
+	  },
+	  {
+		"town": "Grundy",
+		"coordinates": {
+		  "lat": 37.2778886,
+		  "long": -82.0990223
+		}
+	  }
+	]
+  },
+  {
+	"id": 32,
+	"state": "Washington",
+	"towns": [
+	  {
+		"town": "Kennewick",
+		"coordinates": {
+		  "lat": 46.211246,
+		  "long": -119.137234
+		}
+	  }
+	]
+  },
+  {
+	"id": 33,
+	"state": "West Virginia",
+	"towns": [
+	  {
+		"town": "Eleanor",
+		"coordinates": {
+		  "lat": 38.5375886,
+		  "long": -81.9323577
+		}
+	  }
+	]
+  },
+  {
+	"id": 34,
+	"state": "Wisconsin",
+	"towns": [
+	  {
+		"town": "Appleton",
+		"coordinates": {
+		  "lat": 44.2619309,
+		  "long": -88.4153847
+		}
+	  }
+	]
+  }
+]
+

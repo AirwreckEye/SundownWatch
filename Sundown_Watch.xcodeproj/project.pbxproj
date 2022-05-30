@@ -8,17 +8,34 @@
 
 /* Begin PBXBuildFile section */
 		90333B26284463FE00E5CFF8 /* Sundown_WatchApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90333B25284463FE00E5CFF8 /* Sundown_WatchApp.swift */; };
-		90333B28284463FE00E5CFF8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90333B27284463FE00E5CFF8 /* ContentView.swift */; };
-		90333B2A2844640000E5CFF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90333B292844640000E5CFF8 /* Assets.xcassets */; };
 		90333B2D2844640000E5CFF8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90333B2C2844640000E5CFF8 /* Preview Assets.xcassets */; };
+		90333B392844643A00E5CFF8 /* LandingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90333B382844643A00E5CFF8 /* LandingView.swift */; };
+		90333B3B2844647B00E5CFF8 /* LandingButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90333B3A2844647B00E5CFF8 /* LandingButtonStyle.swift */; };
+		90333B3D2844652F00E5CFF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90333B3C2844652F00E5CFF8 /* Assets.xcassets */; };
+		90333B3F2844710F00E5CFF8 /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90333B3E2844710E00E5CFF8 /* Location.swift */; };
+		90333B412844715700E5CFF8 /* TownModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90333B402844715700E5CFF8 /* TownModelData.swift */; };
+		90333B432844716000E5CFF8 /* StateRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90333B422844716000E5CFF8 /* StateRow.swift */; };
+		90333B452844716E00E5CFF8 /* LocationData.json in Resources */ = {isa = PBXBuildFile; fileRef = 90333B442844716E00E5CFF8 /* LocationData.json */; };
+		90333B472844717900E5CFF8 /* StateList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90333B462844717900E5CFF8 /* StateList.swift */; };
+		90333B492844718200E5CFF8 /* MapPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90333B482844718200E5CFF8 /* MapPageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		90333B22284463FE00E5CFF8 /* Sundown_Watch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sundown_Watch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		90333B25284463FE00E5CFF8 /* Sundown_WatchApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sundown_WatchApp.swift; sourceTree = "<group>"; };
-		90333B27284463FE00E5CFF8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		90333B292844640000E5CFF8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		90333B2C2844640000E5CFF8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		90333B382844643A00E5CFF8 /* LandingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LandingView.swift; sourceTree = "<group>"; };
+		90333B3A2844647B00E5CFF8 /* LandingButtonStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LandingButtonStyle.swift; sourceTree = "<group>"; };
+		90333B3C2844652F00E5CFF8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = /Users/airwreckeye/Desktop/Sundown_Watch/Sundown_Watch/Assets.xcassets; sourceTree = "<absolute>"; };
+		90333B3E2844710E00E5CFF8 /* Location.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
+		90333B402844715700E5CFF8 /* TownModelData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TownModelData.swift; sourceTree = "<group>"; };
+		90333B422844716000E5CFF8 /* StateRow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StateRow.swift; sourceTree = "<group>"; };
+		90333B442844716E00E5CFF8 /* LocationData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = LocationData.json; sourceTree = "<group>"; };
+		90333B462844717900E5CFF8 /* StateList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StateList.swift; sourceTree = "<group>"; };
+		90333B482844718200E5CFF8 /* MapPageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapPageView.swift; sourceTree = "<group>"; };
+		90333B4A2844719600E5CFF8 /* Lovelo-LineLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lovelo-LineLight.otf"; sourceTree = "<group>"; };
+		90333B4B2844719700E5CFF8 /* Lovelo-LineBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lovelo-LineBold.otf"; sourceTree = "<group>"; };
+		90333B4C2844719700E5CFF8 /* Lovelo-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lovelo-Black.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,8 +69,9 @@
 			isa = PBXGroup;
 			children = (
 				90333B25284463FE00E5CFF8 /* Sundown_WatchApp.swift */,
-				90333B27284463FE00E5CFF8 /* ContentView.swift */,
-				90333B292844640000E5CFF8 /* Assets.xcassets */,
+				90333B4D284471A500E5CFF8 /* Views */,
+				90333B4F284471FE00E5CFF8 /* Resources */,
+				90333B4E284471D300E5CFF8 /* Model */,
 				90333B2B2844640000E5CFF8 /* Preview Content */,
 			);
 			path = Sundown_Watch;
@@ -65,6 +83,39 @@
 				90333B2C2844640000E5CFF8 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		90333B4D284471A500E5CFF8 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				90333B382844643A00E5CFF8 /* LandingView.swift */,
+				90333B482844718200E5CFF8 /* MapPageView.swift */,
+				90333B462844717900E5CFF8 /* StateList.swift */,
+				90333B422844716000E5CFF8 /* StateRow.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		90333B4E284471D300E5CFF8 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				90333B3E2844710E00E5CFF8 /* Location.swift */,
+				90333B402844715700E5CFF8 /* TownModelData.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		90333B4F284471FE00E5CFF8 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				90333B3C2844652F00E5CFF8 /* Assets.xcassets */,
+				90333B3A2844647B00E5CFF8 /* LandingButtonStyle.swift */,
+				90333B442844716E00E5CFF8 /* LocationData.json */,
+				90333B4C2844719700E5CFF8 /* Lovelo-Black.otf */,
+				90333B4B2844719700E5CFF8 /* Lovelo-LineBold.otf */,
+				90333B4A2844719600E5CFF8 /* Lovelo-LineLight.otf */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +176,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				90333B3D2844652F00E5CFF8 /* Assets.xcassets in Resources */,
+				90333B452844716E00E5CFF8 /* LocationData.json in Resources */,
 				90333B2D2844640000E5CFF8 /* Preview Assets.xcassets in Resources */,
-				90333B2A2844640000E5CFF8 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +189,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				90333B28284463FE00E5CFF8 /* ContentView.swift in Sources */,
+				90333B392844643A00E5CFF8 /* LandingView.swift in Sources */,
 				90333B26284463FE00E5CFF8 /* Sundown_WatchApp.swift in Sources */,
+				90333B492844718200E5CFF8 /* MapPageView.swift in Sources */,
+				90333B412844715700E5CFF8 /* TownModelData.swift in Sources */,
+				90333B3F2844710F00E5CFF8 /* Location.swift in Sources */,
+				90333B432844716000E5CFF8 /* StateRow.swift in Sources */,
+				90333B472844717900E5CFF8 /* StateList.swift in Sources */,
+				90333B3B2844647B00E5CFF8 /* LandingButtonStyle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,6 +331,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -284,7 +343,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -302,6 +361,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -313,7 +373,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

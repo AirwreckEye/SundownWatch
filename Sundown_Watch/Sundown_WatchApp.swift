@@ -11,7 +11,7 @@ import SwiftUI
 struct Sundown_WatchApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LandingView()
         }
     }
 }
