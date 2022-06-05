@@ -15,7 +15,7 @@ struct StateList: View {
             List(allLocations) { location in
             StateRow(location: location)
         }
-    }
+        }.background(Color.red)
     }
 }
 

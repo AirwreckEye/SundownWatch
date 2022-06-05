@@ -21,8 +21,8 @@ struct LandingButtonStyle: ButtonStyle {
         let fillColor: Color
         var body: some View{
             return configuration.label
-                .padding(35)
-                .background(RoundedRectangle(cornerRadius: 50)
+                .padding(40)
+                .background(RoundedRectangle(cornerRadius: 60)
                     .fill(
                         fillColor
                     )
