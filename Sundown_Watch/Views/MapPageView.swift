@@ -25,7 +25,7 @@ struct MapPageView: View {
                 }
             }
         }
-        .frame(height: 800, alignment: .topLeading)
+        .edgesIgnoringSafeArea(.all)
     }
 }
 

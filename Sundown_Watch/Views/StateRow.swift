@@ -8,20 +8,32 @@
 import SwiftUI
 
 struct StateRow: View {
+    @State private var isExpanded = false
     var location: Location
     
     var body: some View {
-        HStack {
+        DisclosureGroup (isExpanded: $isExpanded, content: {
+            ScrollView {
+                VStack {
+                    ForEach(location.towns, id: \.id){ town in
+                        HStack {
+                            Text(town.town)
+                                .font(.headline)
+                            Spacer()
+                        }
+                    }
+                }
+            }
+            .frame(height: 75, alignment: .leading)
+        }, label: {
             Image(location.state)
                 .resizable()
                 .frame(width: 75, height: 50)
             Text(location.state)
                 .font(Font.custom("Lovelo-Black", size: 20))
-        
-            
             Spacer()
-            
-        }
+
+        })
     }
 }
 

@@ -10,12 +10,11 @@ import SwiftUI
 struct StateList: View {
     var body: some View {
         VStack {
-        Text("States with Sundown Towns")
-                .font(Font.custom("Lovelo-Black", size: 25))
             List(allLocations) { location in
             StateRow(location: location)
+            }
         }
-        }.background(Color.red)
+    
     }
 }
 

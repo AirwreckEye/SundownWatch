@@ -9,31 +9,42 @@ import SwiftUI
 
 struct LandingView: View {
     var body: some View {
+    NavigationView {
         VStack {
             Spacer()
-                Button(action: {}){
-                HStack {
-                    Text("Stay vigilant")
-                        .font(.system(size: 30,
-                                      weight: .semibold
-                                      ))
-                        .foregroundColor(.white).shadow(radius: 250)
-                    Image(systemName: "binoculars.fill")
-                        .foregroundColor(.white)
-                    Image(systemName: "arrow.right")
-                        .foregroundColor(.white)
-                        .font(.system(size: 30))
-                
-            }
-            }.buttonStyle(LandingButtonStyle())
+            NavigationLink(destination:
+                NavTab())
+             {
+                    HStack {
+                        Text("Stay vigilant")
+                            .font(.system(size: 30,
+                                          weight: .semibold
+                                         ))
+                            .foregroundColor(.white).shadow(radius: 250)
+                        Image(systemName: "binoculars.fill")
+                            .foregroundColor(.white)
+                        Image(systemName: "arrow.right")
+                            .foregroundColor(.white)
+                            .font(.system(size: 30))
+                        
+                    }
+                    .padding(40)
+                    .background(RoundedRectangle(cornerRadius: 60)
+                        .fill(.black)
+                        .scenePadding()
+                    )
+             
+             }
+
         }.frame(maxWidth: .infinity,
                 maxHeight: .infinity)
         .background(
             Image("sdwlanding")
                 .resizable().scaledToFill()
         ).edgesIgnoringSafeArea(.all)
+          
             
-    
+    }
     }
 }
 

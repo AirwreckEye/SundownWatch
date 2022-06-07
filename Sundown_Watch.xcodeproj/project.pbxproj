@@ -17,7 +17,7 @@
 		90333B452844716E00E5CFF8 /* LocationData.json in Resources */ = {isa = PBXBuildFile; fileRef = 90333B442844716E00E5CFF8 /* LocationData.json */; };
 		90333B472844717900E5CFF8 /* StateList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90333B462844717900E5CFF8 /* StateList.swift */; };
 		90333B492844718200E5CFF8 /* MapPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90333B482844718200E5CFF8 /* MapPageView.swift */; };
-		90B35791284BCAEA002DB8B1 /* LandingButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90B35790284BCAEA002DB8B1 /* LandingButtonStyle.swift */; };
+		90B35797284D92A1002DB8B1 /* NavTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90B35796284D92A1002DB8B1 /* NavTab.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,7 +33,7 @@
 		90333B462844717900E5CFF8 /* StateList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StateList.swift; sourceTree = "<group>"; };
 		90333B482844718200E5CFF8 /* MapPageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapPageView.swift; sourceTree = "<group>"; };
 		90333B4C2844719700E5CFF8 /* Lovelo-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lovelo-Black.otf"; sourceTree = "<group>"; };
-		90B35790284BCAEA002DB8B1 /* LandingButtonStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LandingButtonStyle.swift; sourceTree = "<group>"; };
+		90B35796284D92A1002DB8B1 /* NavTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavTab.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +90,7 @@
 				90333B482844718200E5CFF8 /* MapPageView.swift */,
 				90333B462844717900E5CFF8 /* StateList.swift */,
 				90333B422844716000E5CFF8 /* StateRow.swift */,
+				90B35796284D92A1002DB8B1 /* NavTab.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -107,7 +108,6 @@
 			isa = PBXGroup;
 			children = (
 				90333B3C2844652F00E5CFF8 /* Assets.xcassets */,
-				90B35790284BCAEA002DB8B1 /* LandingButtonStyle.swift */,
 				90333B442844716E00E5CFF8 /* LocationData.json */,
 				90333B4C2844719700E5CFF8 /* Lovelo-Black.otf */,
 			);
@@ -187,10 +187,10 @@
 			files = (
 				90333B392844643A00E5CFF8 /* LandingView.swift in Sources */,
 				90333B26284463FE00E5CFF8 /* Sundown_WatchApp.swift in Sources */,
+				90B35797284D92A1002DB8B1 /* NavTab.swift in Sources */,
 				90333B492844718200E5CFF8 /* MapPageView.swift in Sources */,
 				90333B412844715700E5CFF8 /* TownModelData.swift in Sources */,
 				90333B3F2844710F00E5CFF8 /* Location.swift in Sources */,
-				90B35791284BCAEA002DB8B1 /* LandingButtonStyle.swift in Sources */,
 				90333B432844716000E5CFF8 /* StateRow.swift in Sources */,
 				90333B472844717900E5CFF8 /* StateList.swift in Sources */,
 			);
