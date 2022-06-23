@@ -19,10 +19,8 @@ struct MapPageView: View {
     var body: some View {
         Map(coordinateRegion: $coordinateRegion, interactionModes: .all, annotationItems: allTowns) { town in
             MapAnnotation(coordinate: town.townCoordinate) {
-                VStack{
                 Image(systemName: "mappin")
                     .foregroundColor(.red)
-                }
             }
         }
         .edgesIgnoringSafeArea(.all)

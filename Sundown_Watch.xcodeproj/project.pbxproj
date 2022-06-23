@@ -17,6 +17,7 @@
 		90333B452844716E00E5CFF8 /* LocationData.json in Resources */ = {isa = PBXBuildFile; fileRef = 90333B442844716E00E5CFF8 /* LocationData.json */; };
 		90333B472844717900E5CFF8 /* StateList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90333B462844717900E5CFF8 /* StateList.swift */; };
 		90333B492844718200E5CFF8 /* MapPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90333B482844718200E5CFF8 /* MapPageView.swift */; };
+		907432F028642BFF00A3B927 /* Lovelo-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 90333B4C2844719700E5CFF8 /* Lovelo-Black.otf */; };
 		90B35797284D92A1002DB8B1 /* NavTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90B35796284D92A1002DB8B1 /* NavTab.swift */; };
 /* End PBXBuildFile section */
 
@@ -33,6 +34,7 @@
 		90333B462844717900E5CFF8 /* StateList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StateList.swift; sourceTree = "<group>"; };
 		90333B482844718200E5CFF8 /* MapPageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapPageView.swift; sourceTree = "<group>"; };
 		90333B4C2844719700E5CFF8 /* Lovelo-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lovelo-Black.otf"; sourceTree = "<group>"; };
+		907432F128642C2C00A3B927 /* Sundown-Watch-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Sundown-Watch-Info.plist"; sourceTree = SOURCE_ROOT; };
 		90B35796284D92A1002DB8B1 /* NavTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavTab.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -66,6 +68,7 @@
 		90333B24284463FE00E5CFF8 /* Sundown_Watch */ = {
 			isa = PBXGroup;
 			children = (
+				907432F128642C2C00A3B927 /* Sundown-Watch-Info.plist */,
 				90333B25284463FE00E5CFF8 /* Sundown_WatchApp.swift */,
 				90333B4D284471A500E5CFF8 /* Views */,
 				90333B4F284471FE00E5CFF8 /* Resources */,
@@ -87,10 +90,10 @@
 			isa = PBXGroup;
 			children = (
 				90333B382844643A00E5CFF8 /* LandingView.swift */,
-				90333B482844718200E5CFF8 /* MapPageView.swift */,
-				90333B462844717900E5CFF8 /* StateList.swift */,
-				90333B422844716000E5CFF8 /* StateRow.swift */,
 				90B35796284D92A1002DB8B1 /* NavTab.swift */,
+				90333B482844718200E5CFF8 /* MapPageView.swift */,
+				90333B422844716000E5CFF8 /* StateRow.swift */,
+				90333B462844717900E5CFF8 /* StateList.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 			files = (
 				90333B3D2844652F00E5CFF8 /* Assets.xcassets in Resources */,
 				90333B452844716E00E5CFF8 /* LocationData.json in Resources */,
+				907432F028642BFF00A3B927 /* Lovelo-Black.otf in Resources */,
 				90333B2D2844640000E5CFF8 /* Preview Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -324,6 +328,7 @@
 				DEVELOPMENT_TEAM = 8N67VJP5U3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Sundown-Watch-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -354,6 +359,7 @@
 				DEVELOPMENT_TEAM = 8N67VJP5U3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Sundown-Watch-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

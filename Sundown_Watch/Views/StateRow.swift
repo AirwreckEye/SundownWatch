@@ -18,9 +18,10 @@ struct StateRow: View {
                     ForEach(location.towns, id: \.id){ town in
                         HStack {
                             Text(town.town)
-                                .font(.headline)
+                                .font(Font.custom("Lovelo-Black", size: 15))
                             Spacer()
                         }
+                        Spacer()
                     }
                 }
             }
@@ -29,6 +30,7 @@ struct StateRow: View {
             Image(location.state)
                 .resizable()
                 .frame(width: 75, height: 50)
+            Spacer()
             Text(location.state)
                 .font(Font.custom("Lovelo-Black", size: 20))
             Spacer()

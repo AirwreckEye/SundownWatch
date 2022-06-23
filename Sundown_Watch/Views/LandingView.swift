@@ -17,9 +17,7 @@ struct LandingView: View {
              {
                     HStack {
                         Text("Stay vigilant")
-                            .font(.system(size: 30,
-                                          weight: .semibold
-                                         ))
+                            .font(Font.custom("Lovelo-Black", size: 25))
                             .foregroundColor(.white).shadow(radius: 250)
                         Image(systemName: "binoculars.fill")
                             .foregroundColor(.white)
@@ -34,7 +32,7 @@ struct LandingView: View {
                         .scenePadding()
                     )
              
-             }
+             }.padding()
 
         }.frame(maxWidth: .infinity,
                 maxHeight: .infinity)
