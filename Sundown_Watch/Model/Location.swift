@@ -15,7 +15,6 @@ struct Location: Codable, Hashable, Identifiable {
         case towns
     }
 }
-
 // MARK: - Town
 struct Town: Codable, Hashable, Identifiable {
     var id = UUID()
@@ -33,8 +32,6 @@ struct Town: Codable, Hashable, Identifiable {
         case coordinates
     }
 }
-
-
 // MARK: - Coordinates
 struct Coordinates: Codable, Hashable {
     var lat: Double

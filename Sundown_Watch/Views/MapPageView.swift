@@ -13,7 +13,7 @@ struct MapPageView: View {
     @State var allTowns: [Town]
     
     
-    @State private var coordinateRegion = MKCoordinateRegion(center: CLLocationCoordinate2D(latitude: 39.8283, longitude: -98.5795), span: MKCoordinateSpan(latitudeDelta: 50, longitudeDelta: 55)
+    @State private var coordinateRegion = MKCoordinateRegion(center: CLLocationCoordinate2D(latitude: 39.8283, longitude: -98.5795), span: MKCoordinateSpan(latitudeDelta: 50, longitudeDelta: 50)
     )
     
     var body: some View {
